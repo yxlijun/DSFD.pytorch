@@ -61,8 +61,8 @@ python demo.py
 ### Result
 1. demo
 <div align="center">
-<img src="https://github.com/yxlijun/DSFD.pytorch/blob/master/tmp/0_Parade_marchingband_1_488.jpg" height="400px" alt="demo" >
-<img src="https://github.com/yxlijun/DSFD.pytorch/blob/master/tmp/0_Parade_marchingband_1_20.jpg" height="400px" alt="demo" >
+<img src="https://github.com/yxlijun/DSFD.pytorch/blob/master/tmp/0_Parade_marchingband_1_488.jpg" height="300px" alt="demo" >
+<img src="https://github.com/yxlijun/DSFD.pytorch/blob/master/tmp/0_Parade_marchingband_1_20.jpg" height="300px" alt="demo" >
 </div>
 
 
