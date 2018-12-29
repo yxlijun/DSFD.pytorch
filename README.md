@@ -23,13 +23,14 @@ the AP in AFW,PASCAL,FDDB as following:
 ### Prepare data 
 1. download WIDER face dataset
 2. modify data/config.py 
-3. ``` python prepare_wider_data.py 
+3. ``` python prepare_wider_data.py```
 
 
 ### Train 
 ``` 
 python train.py --batch_size 4 
-		--model vgg\resnet50\resnet101 --lr 5e-4
+		--model vgg\resnet50\resnet101 
+		--lr 5e-4
 ``` 
 
 ### Evalution
@@ -57,15 +58,9 @@ python demo.py
 ```
 
 ### Result
-1. AFW PASCAL FDDB
+1. demo
 <div align="center">
-<img src="https://github.com/yxlijun/S3FD.pytorch/blob/master/img/AFW.png" height="200px" alt="afw" >
-<img src="https://github.com/yxlijun/S3FD.pytorch/blob/master/img/pascal.png" height="200px" alt="pascal" >
-<img src="https://github.com/yxlijun/S3FD.pytorch/blob/master/img/FDDB.png" height="200px" alt="fddb" >     
-</div>
-2. demo
-<div align="center">
-<img src="https://github.com/yxlijun/S3FD.pytorch/blob/master/tmp/test2.jpg" height="400px" alt="afw" >
+<img src="https://github.com/yxlijun/DSFD.pytorch/blob/master/tmp/0_Parade_marchingband_1_488.jpg" height="400px" alt="demo" >
 </div>
 
 
