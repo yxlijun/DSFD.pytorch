@@ -12,8 +12,9 @@ the AP in AFW,PASCAL,FDDB as following:
 
 | 	AFW     |   PASCAL	|   FDDB   |
 | --------- |-----------| ---------|
-|	99.89   |    99.11  |  0.983   | 
-
+|	99.89   |    99.11  |  0.983   |
+ 
+I'm using resnet50/resnet101 to train DSFD,the result will be published later on 
 ### Requirement
 * pytorch 0.3 
 * opencv 
