@@ -3,6 +3,7 @@
 
 ### Description
 I use basenet [vgg](https://pan.baidu.com/s/1Q-YqoxJyqvln6KTcIck1tQ) to train DSFD,the model can be downloaded in [DSFD](https://pan.baidu.com/s/199wYHG1ilUu8vFJ3vz6Wjw).the AP in WIDER FACE as following:  
+
 | Easy MAP | Medium MAP	|  hard MAP |
 | ---------|------------| --------- |
 |	0.946  |    0.937   |  0.880    | 
